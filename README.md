@@ -1,3 +1,6 @@
+
+> add a configuration options (`multihtmlCache`) to solve multihtml recompile slow
+
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
 ![npm](https://img.shields.io/npm/dw/html-webpack-plugin.svg)

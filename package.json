@@ -1,6 +1,6 @@
 {
-  "name": "html-webpack-plugin",
-  "version": "3.2.0",
+  "name": "html-webpack-plugin-for-multihtml-cache",
+  "version": "3.2.1",
   "license": "MIT",
   "description": "Simplifies creation of HTML files to serve your webpack bundles",
   "author": "Charles Blaxland <charles.blaxland@gmail.com> (https://github.com/ampedandwired)",
@@ -61,11 +61,11 @@
     "webpack",
     "plugin",
     "html",
-    "html-webpack-plugin"
+    "html-webpack-plugin-for-multihtml-cache"
   ],
-  "bugs": "https://github.com/jantimon/html-webpack-plugin/issues",
-  "homepage": "https://github.com/jantimon/html-webpack-plugin",
-  "repository": "https://github.com/jantimon/html-webpack-plugin.git",
+  "bugs": "https://github.com/juiceche/html-webpack-plugin/issues",
+  "homepage": "https://github.com/juiceche/html-webpack-plugin",
+  "repository": "https://github.com/juiceche/html-webpack-plugin.git",
   "engines": {
     "node": ">=6.9"
   },
